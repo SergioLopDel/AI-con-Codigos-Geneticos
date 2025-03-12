@@ -1,0 +1,90 @@
+Pinguino 1
+Nivel 1 - Cadena genética: 0010 0010 0101 0010 0001 0010
+Características:
+- Plumaje: Plumaje gris
+- Habilidad de Nado: Nada con dificultad
+- Resistencia al Frío: Muy resistente
+- Habilidad para cruzar arena: Camina lentamente
+- Resistencia al agotamiento: Débil
+- Altura: Intermedio
+-------------------------------------------------------
+Pinguino 2
+Nivel 2 - Cadena genética: 0000 0010 0001 0000 0000 1101
+Características:
+- Plumaje: Plumaje negro
+- Habilidad de Nado: Nada con dificultad
+- Resistencia al Frío: Sensible
+- Habilidad para cruzar arena: No camina en arena
+- Resistencia al agotamiento: Muy débil
+- Altura: Estrecho
+-------------------------------------------------------
+Pinguino 3
+Nivel 3 - Cadena genética: 0001 1000 0010 0001 0011 0010
+Características:
+- Plumaje: Plumaje blanco
+- Habilidad de Nado: Nada como un experto
+- Resistencia al Frío: Poco resistente
+- Habilidad para cruzar arena: Camina torpemente
+- Resistencia al agotamiento: Resistente
+- Altura: Intermedio
+-------------------------------------------------------
+Pinguino 4
+Nivel 4 - Cadena genética: 1000 0110 1000 0010 0011 0011
+Características:
+- Plumaje: Plumaje azulado
+- Habilidad de Nado: Nada rápido
+- Resistencia al Frío: Adaptado al frío
+- Habilidad para cruzar arena: Camina lentamente
+- Resistencia al agotamiento: Resistente
+- Altura: Alto
+-------------------------------------------------------
+Pinguino 5
+Nivel 5 - Cadena genética: 1111 0100 1111 0001 0010 0010
+Características:
+- Plumaje: Plumaje rayado
+- Habilidad de Nado: Nada bien
+- Resistencia al Frío: Rey del frío
+- Habilidad para cruzar arena: Camina torpemente
+- Resistencia al agotamiento: Normal
+- Altura: Intermedio
+-------------------------------------------------------
+Pinguino 6
+Nivel 6 - Cadena genética: 0100 0010 0100 0001 0001 1011
+Características:
+- Plumaje: Plumaje rubio
+- Habilidad de Nado: Nada con dificultad
+- Resistencia al Frío: Resistente
+- Habilidad para cruzar arena: Camina torpemente
+- Resistencia al agotamiento: Débil
+- Altura: Delgado
+-------------------------------------------------------
+Pinguino 7
+Nivel 7 - Cadena genética: 0011 0011 0011 0010 0011 1010
+Características:
+- Plumaje: Plumaje marrón
+- Habilidad de Nado: Nada decentemente
+- Resistencia al Frío: Resistencia media
+- Habilidad para cruzar arena: Camina lentamente
+- Resistencia al agotamiento: Resistente
+- Altura: Compacto
+-------------------------------------------------------
+Pinguino 8
+Nivel 8 - Cadena genética: 0011 0100 0101 0001 0101 1100
+Características:
+- Plumaje: Plumaje marrón
+- Habilidad de Nado: Nada bien
+- Resistencia al Frío: Muy resistente
+- Habilidad para cruzar arena: Camina torpemente
+- Resistencia al agotamiento: Casi inmune
+- Altura: Ancho
+-------------------------------------------------------
+Pinguino 9
+Nivel 9 - Cadena genética: 0100 0101 0100 0000 0010 1101
+Características:
+- Plumaje: Plumaje rubio
+- Habilidad de Nado: Nada muy bien
+- Resistencia al Frío: Resistente
+- Habilidad para cruzar arena: No camina en arena
+- Resistencia al agotamiento: Normal
+- Altura: Estrecho
+-------------------------------------------------------
